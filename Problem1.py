@@ -11,14 +11,14 @@ Created on Sun Feb 14 11:55:17 2021
 
 
 total = []
-first_multiple = input('First Multiple:')
+first_multiple = input('First Multiple:') # This will be 3
 first_multiple = int(first_multiple)
-second_multiple = input('Second Multiple:')
+second_multiple = input('Second Multiple:') # This will be 5
 second_multiple = int(second_multiple)
 
 ### building the boundary####
 
-bounds = input('Between 0 and .....')
+bounds = input('Between 0 and .....') # This will be 1000
 bounds = int(bounds)
 bounds = bounds
 #print(bounds)
